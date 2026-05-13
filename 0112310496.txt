@@ -1,0 +1,18 @@
+1.
+git config global --user.name "Mahamudul496"
+git config --global user.email "mahamudulmidul@gmail.com"
+
+2.
+
+3.
+git clone https://github.com/Mahamudul496/Project-Metropolitan.git
+
+4.
+cd Project-Metropolitan
+
+5.
+$ git branch login
+$ git branch signup
+
+6.
+
